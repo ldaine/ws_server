@@ -1,7 +1,7 @@
 {
   "name": "ws-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple WebSocket Server",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
